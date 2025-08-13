@@ -1,0 +1,8 @@
+exports[`field > should display field 1`] = `
+{
+  "html": "ciao",
+  "anotherField": {
+    "mood": []
+  }
+}
+`;
